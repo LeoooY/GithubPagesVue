@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/GithubPagesVue/js/chunk-vendors.beb9e5bb.js"
   },
   {
-    "revision": "22c76025c7cfbb6a136d",
-    "url": "/GithubPagesVue/js/app.6f56920b.js"
+    "revision": "991a066a6f79990cfe81",
+    "url": "/GithubPagesVue/js/app.e2b30f2a.js"
   },
   {
-    "revision": "b29569b33eea99e609519baa27be67a8",
+    "revision": "86f06dff941485fbb272ade5cd996924",
     "url": "/GithubPagesVue/index.html"
   },
   {
-    "revision": "07d1e22e8cddd99a53037dc510221b7b",
-    "url": "/GithubPagesVue/img/logo.07d1e22e.svg"
+    "revision": "63a7d78d42c33b94fc7b957524795cac",
+    "url": "/GithubPagesVue/img/logo.63a7d78d.svg"
   },
   {
     "revision": "bcc36e713bf24cdbf8bb",
     "url": "/GithubPagesVue/css/chunk-vendors.707449fd.css"
   },
   {
-    "revision": "22c76025c7cfbb6a136d",
+    "revision": "991a066a6f79990cfe81",
     "url": "/GithubPagesVue/css/app.919b9827.css"
   }
 ];
