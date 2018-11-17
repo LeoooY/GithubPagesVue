@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/GithubPagesVue/precache-manifest.ceff8d9971ea56380d38e66cd402b44a.js"
+  "/GithubPagesVue/precache-manifest.72608fd30b3ff8150d5173e65aeeb543.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "leoooy.github.io"});

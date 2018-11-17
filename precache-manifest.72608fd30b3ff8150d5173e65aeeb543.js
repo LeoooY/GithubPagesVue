@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/GithubPagesVue/robots.txt"
   },
   {
-    "revision": "bcc36e713bf24cdbf8bb",
-    "url": "/GithubPagesVue/js/chunk-vendors.beb9e5bb.js"
+    "revision": "9ae8fa7e309ff9b0f8a6",
+    "url": "/GithubPagesVue/js/chunk-vendors.1977019d.js"
   },
   {
-    "revision": "991a066a6f79990cfe81",
-    "url": "/GithubPagesVue/js/app.e2b30f2a.js"
+    "revision": "8dc5775bdc80312af445",
+    "url": "/GithubPagesVue/js/app.237cbc03.js"
   },
   {
-    "revision": "86f06dff941485fbb272ade5cd996924",
+    "revision": "1cce54296eaf4ea6284c0a5f0829b6ae",
     "url": "/GithubPagesVue/index.html"
   },
   {
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/GithubPagesVue/img/logo.63a7d78d.svg"
   },
   {
-    "revision": "bcc36e713bf24cdbf8bb",
+    "revision": "9ae8fa7e309ff9b0f8a6",
     "url": "/GithubPagesVue/css/chunk-vendors.707449fd.css"
   },
   {
-    "revision": "991a066a6f79990cfe81",
+    "revision": "8dc5775bdc80312af445",
     "url": "/GithubPagesVue/css/app.919b9827.css"
   }
 ];
